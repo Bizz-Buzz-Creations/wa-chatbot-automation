@@ -1,0 +1,66 @@
+[
+  {
+    "question": ["business hours", "working hours", "when are you open"],
+    "answer": "Our business hours are 11 AM to 7 PM, Monday to Friday."
+  },
+  {
+    "question": ["marketing services", "services you offer", "what marketing services do you offer"],
+    "answer": "We offer a comprehensive range of marketing services, including Digital Marketing, Web Development, Business Development, and Tech Solutions."
+  },
+  {
+    "question": ["seo", "google ads", "facebook ads", "do you handle seo or ads"],
+    "answer": "Yes, we specialize in SEO, Google Ads, and Facebook Ads. Our team will develop tailored strategies to boost your visibility and achieve your marketing goals."
+  },
+  {
+    "question": ["social media management", "manage social accounts", "can you manage our social media"],
+    "answer": "Absolutely! We offer end-to-end social media management, including content creation, posting, engagement, and performance tracking."
+  },
+  {
+    "question": ["track marketing performance", "marketing analytics", "how do you track performance"],
+    "answer": "We track marketing performance through advanced analytics tools and provide detailed reports on ROI, engagement, traffic, and conversions."
+  },
+  {
+    "question": ["case studies", "past campaigns", "client examples"],
+    "answer": "Yes, we can share case studies and examples of past campaigns that delivered successful results. Just let us know!"
+  },
+  {
+    "question": ["how long for results", "when will we see results", "timeline for marketing results"],
+    "answer": "SEO takes a few months for significant results, while PPC and social media campaigns can deliver quicker outcomes. We’ll discuss this during your strategy session."
+  },
+  {
+    "question": ["schedule strategy call", "book a call", "free consultation"],
+    "answer": "Yes, you can book a free strategy call with our experts to discuss your goals and the best approach to achieve them."
+  },
+  {
+    "question": ["what do you need to start", "how to get started", "project requirements"],
+    "answer": "To get started, we need your goals, access to digital platforms, current marketing data (if any), and details about your target audience and industry."
+  },
+  {
+    "question": ["bpo services", "what bpo do you offer", "business process outsourcing"],
+    "answer": "We offer BPO services including Inbound Calling, Email Support, Live Chat Support, and Virtual Assistance."
+  },
+  {
+    "question": ["inbound calling", "call support", "do you provide inbound calling services"],
+    "answer": "Yes, we offer inbound calling services for customer support, lead generation, and telemarketing."
+  },
+  {
+    "question": ["virtual assistant", "chat support", "do you provide virtual assistants"],
+    "answer": "Yes, we provide virtual assistants and chat support to help manage inquiries and administrative tasks."
+  },
+  {
+    "question": ["uk ecommerce", "uae real estate", "support uk or uae businesses"],
+    "answer": "Yes, we support UK and UAE-based businesses, including eCommerce and real estate, with tailored marketing and BPO solutions."
+  },
+  {
+    "question": ["arabic support", "english support", "customer support in arabic or english"],
+    "answer": "Yes, we provide customer support in both Arabic and English to serve your clients in the Middle East."
+  },
+  {
+    "question": ["data protection", "data compliance", "how do you protect data"],
+    "answer": "We follow strict protocols to ensure all sensitive information is securely handled and compliant with industry standards."
+  },
+  {
+    "question": ["gdpr compliance", "uae data law", "are your processes gdpr compliant"],
+    "answer": "Yes, all our processes comply with GDPR and UAE data protection laws. Your data’s security is our priority."
+  }
+]
